@@ -1,0 +1,5 @@
+timestamp,2026-10-16 00:58
+hostname,SHRAVAN
+os,Windows
+python_version,3.14.7
+command_line,ad_enum_v2.py --output-dir AD

@@ -1,0 +1,23 @@
+timestamp,source,field,value,source_output
+2026-10-16 00:58,whoami,current_user,HP,
+2026-10-16 00:58,hostname,hostname,SHRAVAN,
+2026-10-16 00:58,platform,os,Windows,
+2026-10-16 00:58,net_user_domain,local_fail,rc=2,"The request will be processed at a domain controller for domain WORKGROUP.
+
+System error 1355 has occurred.
+
+The specified domain either does not exist or could not be contacted."
+2026-10-16 00:58,net_group_domain,local_fail,rc=2,"The request will be processed at a domain controller for domain WORKGROUP.
+
+System error 1355 has occurred.
+
+The specified domain either does not exist or could not be contacted."
+2026-10-16 00:58,net_localgroup_admins,local_admins,"Alias name     administrators
+Comment        Administrators have complete and unrestricted access to the computer/domain
+
+Members
+
+-------------------------------------------------------------------------------
+Administrator
+HP
+The command completed successfully.",
