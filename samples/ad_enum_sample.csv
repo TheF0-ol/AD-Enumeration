@@ -1,0 +1,17 @@
+timestamp,domain,source,object_type,group,name
+2026-11-23T10:49:40,corp.lucid,net user /domain,user,,Administrator
+2026-11-23T10:49:40,corp.lucid,net user /domain,user,,alice
+2026-11-23T10:49:40,corp.lucid,net user /domain,user,,bob
+2026-11-23T10:49:40,corp.lucid,net user /domain,user,,carol
+2026-11-23T10:49:40,corp.lucid,net user /domain,user,,Guest
+2026-11-23T10:49:40,corp.lucid,net user /domain,user,,krbtgt
+2026-11-23T10:49:40,corp.lucid,net user /domain,user,,svc_sql
+2026-11-23T10:49:40,corp.lucid,"net group ""Domain Admins"" /domain",group_member,Domain Admins,Administrator
+2026-11-23T10:49:40,corp.lucid,"net group ""Enterprise Admins"" /domain",group_member,Enterprise Admins,Administrator
+2026-11-23T10:49:40,corp.lucid,"net group ""Domain Controllers"" /domain",group_member,Domain Controllers,DC-01$
+2026-11-23T10:49:40,corp.lucid,"net group ""Domain Users"" /domain",group_member,Domain Users,Administrator
+2026-11-23T10:49:40,corp.lucid,"net group ""Domain Users"" /domain",group_member,Domain Users,alice
+2026-11-23T10:49:40,corp.lucid,"net group ""Domain Users"" /domain",group_member,Domain Users,bob
+2026-11-23T10:49:40,corp.lucid,"net group ""Domain Users"" /domain",group_member,Domain Users,carol
+2026-11-23T10:49:40,corp.lucid,"net group ""Domain Users"" /domain",group_member,Domain Users,krbtgt
+2026-11-23T10:49:40,corp.lucid,"net group ""Domain Users"" /domain",group_member,Domain Users,svc_sql
